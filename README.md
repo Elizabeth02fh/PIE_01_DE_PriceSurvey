@@ -25,7 +25,7 @@ Se utilizó la función concat en Python para concatenar las tablas de precios_s
 ## ETAPA 3: CARGA
 Por último, se utilizó la librería de SQLAlchemy en Python para poder conectar a la base de datos que previamente lo cree en MySQL "preciosdb", de ahí cargué los datasets todos ok a mi base de datos, luego se hizo los alter tables, para asignar PRIMARY KEY y FOREIGN KEY que lo ameritaba.
 La base de datos generada finalmente se muestra así:
-<img src="images/DER.png" width="700" height="400" align="center">
+<img src="images/DER.png" width="600" height="350" align="center">
 
 ### query
 Finalmente, se hizo una consulta para contrastar si la base de datos funciona: Precio promedio de la sucursal 9-1-688, el cual dio como resultado: 203.64690382081687.
