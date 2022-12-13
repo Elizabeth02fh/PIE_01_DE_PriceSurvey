@@ -1,5 +1,5 @@
 # Proyecto: Relevamiento de precios en distintos mercados
-En este proyecto se realizó un proceso de ETL (Extract, transform and Load) a partir de un conjunto de datos que se enfocó en una misma perspectiva de negocio. Los datos vienen de diversas fuentes de relevamiento  de precios en distintos mercados.
+En este proyecto se realizó un proceso de ETL (Extract, transform and Load) a partir de un conjunto de datos que se enfocó en una misma perspectiva de negocio. Los datos vienen de diversas fuentes de relevamiento  de precios en distintos mercados de Argentina.
 ## Diagrama del Flujo de Trabajo del ETL
 ![Diagrama del Flujo de trabajo del ETL](https://user-images.githubusercontent.com/103965538/198378694-f0997482-3059-4fbd-b568-ba637ab270f3.png)
  
