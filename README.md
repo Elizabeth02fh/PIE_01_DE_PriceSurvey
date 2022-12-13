@@ -1,5 +1,8 @@
 # Proyecto: Relevamiento de precios en distintos mercados
 En este proyecto se realizó un proceso de ETL (Extract, transform and Load) a partir de un conjunto de datos que se enfocó en una misma perspectiva de negocio. Los datos vienen de diversas fuentes de relevamiento  de precios en distintos mercados de Argentina, luego se realizó el DER a través de MySQL Worbench. 
+
+El proceso del video del proyecto en este link
+[![Alt text](https://img.youtube.com/vi/8NuuhUJACbQ/0.jpg)](https://www.youtube.com/watch?v=8NuuhUJACbQ)
 ## Diagrama del Flujo de Trabajo del ETL
 
 <img src="images/pipeline.png" width="650" height="350" align="right">
