@@ -29,7 +29,7 @@ The concat function in Python was used to concatenate the price_weeks tables, si
 ## STAGE 3: CHARGING
 Finally, the SQLAlchemy library in Python was used to be able to connect to the database that previously created it in MySQL "preciosdb", from there I loaded the datasets all ok to my database, then the alter tables were made, for assign PRIMARY KEY and FOREIGN KEY that warranted it.
 The generated database is finally shown like this:
-<img src="images/DER.png" width="600" height="350" align="center">
+<img src="images/DER.png" width="700" height="350" align="center">
 
 ### query
 Finally, a query was made to verify if the database works: Average price of the 9-1-688 branch, which resulted in:203.64690382081687.
